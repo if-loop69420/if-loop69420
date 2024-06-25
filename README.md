@@ -13,6 +13,7 @@ I am Jeremy. I am a Software Developer and Linux enthusiast from Austria.
 
 ## Skills and Languages
 ![Static Badge](https://img.shields.io/badge/OS-Linux-white?logo=linux&color=white)
+![Static Badge](https://img.shields.io/badge/TECH-ROS-white?logo=ros)
 ![Static Badge](https://img.shields.io/badge/TECH-Docker-blue?logo=docker&labelColor=lightblue&color=blue)
 ![Static Badge](https://img.shields.io/badge/LANG-Haskell-purple?logo=haskell&color=purple)
 ![Static Badge](https://img.shields.io/badge/LANG-Rust-red?logo=rust&color=red)
