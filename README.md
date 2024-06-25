@@ -19,8 +19,8 @@ I am Jeremy. I am a Software Developer and Linux enthusiast from Austria.
 ![Static Badge](https://img.shields.io/badge/LANG-Rust-red?logo=rust&color=red)
 ![Static Badge](https://img.shields.io/badge/LANG-TypeScript-blue?logo=typescript&color=blue)
 ![Static Badge](https://img.shields.io/badge/LANG-JavaScript-blue?logo=javascript&color=yellow)
-![Static Badge](https://img.shields.io/badge/LANG-c-blue?logo=c&color=blue)
-![Static Badge](https://img.shields.io/badge/LANG-c%2B%2B-blue?logo=cplusplus&color=blue)
+![Static Badge](https://img.shields.io/badge/LANG-C-blue?logo=c&color=blue)
+![Static Badge](https://img.shields.io/badge/LANG-C%2B%2B-blue?logo=cplusplus&color=blue)
 ![Static Badge](https://img.shields.io/badge/LANG-Elixir-violet?logo=elixir&color=violet)
 
 ## Github Stats
