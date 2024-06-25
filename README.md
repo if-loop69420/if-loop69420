@@ -1,6 +1,6 @@
-# Welcome wonderful being!
+# Welcome, wonderful being!
 
-I am Jeremy. I am a Software Developer and Linux enthusiast from Austria.
+I am Jeremy. I am a software developer and Linux enthusiast from Austria.
 
 ## Software Used
 
