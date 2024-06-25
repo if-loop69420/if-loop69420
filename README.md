@@ -24,8 +24,8 @@ I am Jeremy. I am a Software Developer and Linux enthusiast from Austria.
 
 ## Github Stats
 - ![if-loop69420's Stats](https://github-readme-stats.vercel.app/api?username=if-loop69420&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-- [if-loop69420's Streak](https://github-readme-streak-stats.herokuapp.com/?user=if-loop69420&theme=dracula&hide_border=false)
-- [if-loop69420's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=if-loop69420&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+- ![if-loop69420's Streak](https://github-readme-streak-stats.herokuapp.com/?user=if-loop69420&theme=dracula&hide_border=false)
+- ![if-loop69420's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=if-loop69420&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ### Happy Hacking
 ***
